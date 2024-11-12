@@ -60,7 +60,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs 
         This was my second year project which involved working as a team to develop a full stack web application. 
-        This project was creating an E-Waste trading web applet where users can trade and learn about Ewaste. This is one of my major passions to reduce E-Waste and teach others about it. 
+        This project was creating an E-Waste trading web applet where users can trade and learn about Ewaste. This is one of my major passions to reduce E-Waste and teach others about it. 
         We were tasked to work as a group to develop a full stack application using a combination of techniques such as Java spring boot, REST APIs, SQL and React. 
         We used SCRUM methodology to help plan the project and assign roles to the group. 
         I learned how to keep deadlines and used github to track other peoples work as we were implementing all the features together 
