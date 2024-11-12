@@ -61,14 +61,14 @@ content:
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-        ● This was my second year project which involved working as a team to develop a full stack web 
+        - This was my second year project which involved working as a team to develop a full stack web 
           application. 
-        ● This project was creating an E-Waste trading web applet where users can trade and learn about Ewaste. This is one of my major passions to reduce E-Waste and teach others about it. 
-        ● We were tasked to work as a group to develop a full stack application using a combination of 
+        - This project was creating an E-Waste trading web applet where users can trade and learn about Ewaste. This is one of my major passions to reduce E-Waste and teach others about it. 
+        - We were tasked to work as a group to develop a full stack application using a combination of 
         techniques such as Java spring boot, REST APIs, SQL and React. 
-        ● We used SCRUM methodology to help plan the project and assign roles to the group. 
-        ● I learned how to keep deadlines and used github to track other peoples work as we were implementing all the features together 
-        ● I learned to effectively carry out data analysis by using tools such as SPSS and SQL this was used  to analyse tweets for certain information. 
+        - We used SCRUM methodology to help plan the project and assign roles to the group. 
+        - I learned how to keep deadlines and used github to track other peoples work as we were implementing all the features together 
+        - I learned to effectively carry out data analysis by using tools such as SPSS and SQL this was used  to analyse tweets for certain information. 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
