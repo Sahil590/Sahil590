@@ -23,10 +23,10 @@ github_username:  Sahil590
 instagram_username: sahil_raja
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -84,18 +84,18 @@ content:
           I have been working at Imperial College for the past 3 years and have been working on a variety of projects. I have been working on a variety of projects such as the *Imperial College London Website* and the *Imperial College London App*.
 
           I have been working with a variety of technologies such as *React*, *Node.js* and *MongoDB*.
-    content:
-      - layout: left
-        title: Imperial College London
-        link: Imperial.ac.uk
-        sub_title: 1st line support analyst
-        caption: December 2022 - January 2024
-        description: |
-         Provide first-line technical support to students, faculty, and staff, ensuring timely resolution of IT-related issues. 
-         Troubleshoot hardware and software problems, both remotely and in-person, to maintain a seamless computing environment. 
-         Maintain accurate service requests, resolutions, and equipment inventory records to track and improve service quality. 
-         Collaborate with second-line support teams to escalate complex issues and ensure effective problem resolution. 
-         Knowledge of a broad range of ICT technologies to provide 1st line support; Bomgar, Mesh commander, PowerShell, HDB, Jamf, SOV, SCCM, VM, and other tools. 
+    # content:
+    #   - layout: left
+    #     title: Imperial College London
+    #     link: Imperial.ac.uk
+    #     sub_title: 1st line support analyst
+    #     caption: December 2022 - January 2024
+    #     description: |
+    #      Provide first-line technical support to students, faculty, and staff, ensuring timely resolution of IT-related issues. 
+    #      Troubleshoot hardware and software problems, both remotely and in-person, to maintain a seamless computing environment. 
+    #      Maintain accurate service requests, resolutions, and equipment inventory records to track and improve service quality. 
+    #      Collaborate with second-line support teams to escalate complex issues and ensure effective problem resolution. 
+    #      Knowledge of a broad range of ICT technologies to provide 1st line support; Bomgar, Mesh commander, PowerShell, HDB, Jamf, SOV, SCCM, VM, and other tools. 
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
