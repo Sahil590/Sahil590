@@ -48,8 +48,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Full stack website for trading and informing platform about E-waste
+       # link: github.com/sproogen
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -61,8 +61,14 @@ content:
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+        ● This was my second year project which involved working as a team to develop a full stack web 
+          application. 
+        ● This project was creating an E-Waste trading web applet where users can trade and learn about Ewaste. This is one of my major passions to reduce E-Waste and teach others about it. 
+        ● We were tasked to work as a group to develop a full stack application using a combination of 
+        techniques such as Java spring boot, REST APIs, SQL and React. 
+        ● We used SCRUM methodology to help plan the project and assign roles to the group. 
+        ● I learned how to keep deadlines and used github to track other peoples work as we were implementing all the features together 
+        ● I learned to effectively carry out data analysis by using tools such as SPSS and SQL this was used  to analyse tweets for certain information. 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -71,13 +77,25 @@ content:
         link: Imperial.ac.uk
         # link_text: boringcompany.com
         sub_title: Jr Sofware Engineer
-        caption: November 2017 - Present
+        caption: January 2024 - Present
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           I have been working at Imperial College for the past 3 years and have been working on a variety of projects. I have been working on a variety of projects such as the *Imperial College London Website* and the *Imperial College London App*.
 
           I have been working with a variety of technologies such as *React*, *Node.js* and *MongoDB*.
+    content:
+      - layout: left
+        title: Imperial College London
+        link: Imperial.ac.uk
+        sub_title: 1st line support analyst
+        caption: December 2022 - January 2024
+        description: |
+        - Provide first-line technical support to students, faculty, and staff, ensuring timely resolution of IT-related issues. 
+        - Troubleshoot hardware and software problems, both remotely and in-person, to maintain a seamless computing environment. 
+        - Maintain accurate service requests, resolutions, and equipment inventory records to track and improve service quality. 
+        - Collaborate with second-line support teams to escalate complex issues and ensure effective problem resolution. 
+        - Knowledge of a broad range of ICT technologies to provide 1st line support; Bomgar, Mesh commander, PowerShell, HDB, Jamf, SOV, SCCM, VM, and other tools. 
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -86,12 +104,10 @@ content:
         title: Brunel University
         caption: 2019 - 2022
         sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          
 
   # - title: A Little More About Me
   #   layout: text
